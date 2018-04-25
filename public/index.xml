@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ayman A. Amin on Ayman A. Amin</title>
-    <link>https://amazing-fermi-a6b31f.netlify.com/</link>
+    <link>https://aymanamin.netlify.com/</link>
     <description>Recent content in Ayman A. Amin on Ayman A. Amin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Kullback-Leibler divergence to evaluate posterior sensitivity to different priors for autoregressive time series models</title>
-      <link>https://amazing-fermi-a6b31f.netlify.com/publication/2018-kl-arestimation/</link>
+      <link>https://aymanamin.netlify.com/publication/2018-kl-arestimation/</link>
       <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://amazing-fermi-a6b31f.netlify.com/publication/2018-kl-arestimation/</guid>
+      <guid>https://aymanamin.netlify.com/publication/2018-kl-arestimation/</guid>
       <description></description>
     </item>
     
