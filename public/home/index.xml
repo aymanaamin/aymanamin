@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Ayman A. Amin</title>
+    <link>https://aymanamin.rbind.io/home/</link>
+    <description>Recent content in Homes on Ayman A. Amin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Ayman Ahmed Amin</copyright>
+    <lastBuildDate>Fri, 20 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://aymanamin.rbind.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://aymanamin.rbind.io/home/about/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanamin.rbind.io/home/about/</guid>
+      <description>About me I am currently working as An Assistan Professor of Statistics at Faculty of Commerce, Menoufia University, Egypt. Before that, I worked as A Tutor for Statistics and Mathematics for about two years (from February 2012 to June 2014) at Faculty of Science, Engineering and Technology, Swinburne University of Technology, Australia. Moreover, I worked as A Teaching Assistant for Statistics and Mathematics for about three years (from May 2007 to April 2010) at Faculty of Commerce, Menoufia University, Egypt.</description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://aymanamin.rbind.io/home/publications/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanamin.rbind.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://aymanamin.rbind.io/home/teaching/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanamin.rbind.io/home/teaching/</guid>
+      <description>I teach the following courses for undergraduate students:
+ Applied Mathematics. Principles of Statistics. Applied Statistics. Quantitative Analysis.  I teach the following courses for Postgraduate students:
+ Advanced Statistics Theory of Statistics Mathematics for Statisticians Demography  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://aymanamin.rbind.io/home/contact/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanamin.rbind.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
