@@ -1,4 +1,5 @@
-baseurl = "https://aymanamin.rbind.io/"
+baseurl = "https://amazing-fermi-a6b31f.netlify.com/"
+# baseurl = "https://aymanamin.rbind.io/"
 title = "Ayman A. Amin"
 copyright = "&copy; 2018 Ayman Ahmed Amin"
 theme = "hugo-academic"
