@@ -22,7 +22,7 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Ayman A. Amin"
-  description = "A site about R"
+  description = "Personal website of Ayman A. Amin"
   role = "Assistant Professor of Statistics"
   organization = "Faculty of Commerce, Menoufia University, Egypt."
   organization_url = "http://www.menofia.edu.eg/Home/en"
