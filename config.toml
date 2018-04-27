@@ -220,7 +220,7 @@ languageName = "English"
 
 [[Languages.en.menu.main]]
   name = "Publications"
-  url = "/en/publications/"
+  url = "#publications"
   weight = 2
 
 [[Languages.en.menu.main]]
