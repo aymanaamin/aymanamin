@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://aymanamin.rbind.io/ar/categories/" hreflang="ar"/>
+      <xhtml:link rel="alternate" href="https://aymanamin.rbind.io/categories/" hreflang="en"/>
+    
+      <loc>https://aymanamin.rbind.io/ar/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://aymanamin.rbind.io/ar/publication_types/" hreflang="ar"/>
+      <xhtml:link rel="alternate" href="https://aymanamin.rbind.io/publication_types/" hreflang="en"/>
+    
+      <loc>https://aymanamin.rbind.io/ar/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://aymanamin.rbind.io/ar/tags/" hreflang="ar"/>
+      <xhtml:link rel="alternate" href="https://aymanamin.rbind.io/tags/" hreflang="en"/>
+    
+      <loc>https://aymanamin.rbind.io/ar/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://aymanamin.rbind.io/ar/" hreflang="ar"/>
+      <xhtml:link rel="alternate" href="https://aymanamin.rbind.io/" hreflang="en"/>
+    
+      <loc>https://aymanamin.rbind.io/ar/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+</urlset>
