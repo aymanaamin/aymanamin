@@ -245,12 +245,11 @@ languageName = "Arabic"
     identifier = "home"
     url = "/"
     
-    
-    
+
 # [[Languages.ar.menu.main]]
-#  name = "Home"
-#  url = "#السيرة"
-#  weight = 2
+#    name = " الرئيسية"
+#    url = "/ar/aboutar/"
+#    weight = 2
     
 
 # Configure the English version of the website.
