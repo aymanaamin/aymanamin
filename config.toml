@@ -207,14 +207,14 @@ defaultContentLanguageInSubdir = false
 
 [Languages]
 [Languages.en]
-title = "Documentation for Hugo Learn Theme"
+title = "Ayman A. Amin"
 weight = 1
 languageName = "English"
 
 [Languages.ar]
-title = "الله"
+title = "أيمن أحمد أمين"
 weight = 2
-languageName = "Arabic"
+languageName = "العربية"
 
 
 

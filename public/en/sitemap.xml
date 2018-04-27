@@ -116,10 +116,11 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://aymanamin.rbind.io/categories/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://aymanamin.rbind.io/ar/categories/" hreflang="ar"/>
+      <xhtml:link rel="alternate" href="https://aymanamin.rbind.io/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://aymanamin.rbind.io/ar/" hreflang="ar"/>
     
-      <loc>https://aymanamin.rbind.io/categories/</loc>
+      <loc>https://aymanamin.rbind.io/</loc>
+      <lastmod>2018-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -128,11 +129,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://aymanamin.rbind.io/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://aymanamin.rbind.io/ar/" hreflang="ar"/>
+      <xhtml:link rel="alternate" href="https://aymanamin.rbind.io/categories/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://aymanamin.rbind.io/ar/categories/" hreflang="ar"/>
     
-      <loc>https://aymanamin.rbind.io/</loc>
-      <lastmod>2018-04-20T00:00:00+00:00</lastmod>
+      <loc>https://aymanamin.rbind.io/categories/</loc>
       <priority>0</priority>
     </url>
     
