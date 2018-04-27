@@ -211,13 +211,25 @@ title = "Ayman A. Amin"
 weight = 1
 languageName = "English"
 
+[[Languages.en.menu.main]]
+    name = "Home"
+    weight = -110
+    identifier = "home"
+    url = "/"
+
 [Languages.ar]
 title = "أيمن أحمد أمين"
 weight = 2
-languageName = "العربية"
+languageName = "Arabic"
 
-
-
+[[Languages.ar.menu.main]]
+    name = "الله"
+    weight = -110
+    identifier = "home"
+    url = "/"
+    
+    
+    
 
 # Configure the English version of the website.
 [languages.en]
