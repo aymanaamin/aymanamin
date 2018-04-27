@@ -240,12 +240,17 @@ weight = 2
 languageName = "Arabic"
 
 [[Languages.ar.menu.main]]
-    name = "الله"
+    name = "الصفحة الرئيسية"
     weight = -110
     identifier = "home"
     url = "/"
     
     
+    
+# [[Languages.ar.menu.main]]
+#  name = "Home"
+#  url = "#السيرة"
+#  weight = 2
     
 
 # Configure the English version of the website.
