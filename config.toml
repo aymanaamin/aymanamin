@@ -217,6 +217,23 @@ languageName = "English"
     identifier = "home"
     url = "/"
 
+
+[[Languages.en.menu.main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 2
+
+[[Languages.en.menu.main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 5
+
+[[Languages.en.menu.main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 6
+
+
 [Languages.ar]
 title = "أيمن أحمد أمين"
 weight = 2
