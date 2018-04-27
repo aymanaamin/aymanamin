@@ -10,6 +10,20 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title></title>
+      <link>https://aymanamin.rbind.io/ar/aboutar/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanamin.rbind.io/ar/aboutar/</guid>
+      <description>
+
+&lt;h1 id=&#34;السيرة-الذاتية&#34;&gt;السيرة الذاتية&lt;/h1&gt;
+
+&lt;p&gt;هنا مختصر سيرتي الذاتية&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kullback-Leibler divergence to evaluate posterior sensitivity to different priors for autoregressive time series models</title>
       <link>https://aymanamin.rbind.io/publication/2018-kl-arestimation/</link>
       <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
