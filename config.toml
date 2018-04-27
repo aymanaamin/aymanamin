@@ -239,11 +239,11 @@ title = "أيمن أحمد أمين"
 weight = 2
 languageName = "Arabic"
 
-[[Languages.ar.menu.main]]
-    name = "الصفحة الرئيسية"
-    weight = -110
-    identifier = "home"
-    url = "/"
+# [[Languages.ar.menu.main]]
+#    name = "الصفحة الرئيسية"
+#    weight = -110
+#    identifier = "home"
+#    url = "/"
     
 [[Languages.ar.menu.main]]
     name = "الصفحة الرئيسية"
