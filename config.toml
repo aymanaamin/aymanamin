@@ -246,7 +246,7 @@ languageName = "Arabic"
     url = "/"
     
 [[Languages.ar.menu.main]]
-    name = " الرئيسية"
+    name = "الصفحة الرئيسية"
     url = "/ar/aboutar/"
     weight = 2
     
