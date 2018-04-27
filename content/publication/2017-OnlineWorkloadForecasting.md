@@ -17,9 +17,9 @@ url_project = ""
 url_slides = ""
 url_video = ""
 
-# [[url_custom]]
-# name = "View Journal Article"
-# url = "https://link.springer.com/chapter/10.1007%2F978-3-319-47474-8_18"
+[[url_custom]]
+ name = "View Journal Article"
+ url = "https://link.springer.com/chapter/10.1007%2F978-3-319-47474-8_18"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
