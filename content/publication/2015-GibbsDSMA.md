@@ -2,7 +2,7 @@
 abstract = "Gibbs sampling algorithm is introduced for Bayesian inference for multiplicative double seasonal moving average (DSMA) models."
 
 authors = ["Mohamed Ismail", "Ayman A. Amin"]
-date = "2017-07-26"
+date = "2015-07-26"
 image_preview = ""
 math = true
 publication_types = ["1"]
