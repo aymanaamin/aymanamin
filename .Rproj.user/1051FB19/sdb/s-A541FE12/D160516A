@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "+++\nabstract = \"Currently software systems operate in highly dynamic contexts, and consequently they have to adapt their behavior in response to changes in their contexts or/and requirements. Existing approaches trigger adaptations after detecting violations in quality of service (QoS) requirements by just comparing observed QoS values to predefined thresholds without any statistical confidence or certainty. These threshold-based adaptation approaches may perform unnecessary adaptations, which can lead to severe shortcomings such as follow-up failures or increased costs. In this paper we introduce a statistical approach based on CUSUM control charts called AuDeQAV - Automated Detection of QoS Attributes Violations. This approach estimates at runtime a current status of the running system, and monitors its QoS attributes and provides early detection of violations in its requirements with a defined level of confidence. This enables timely intervention preventing undesired consequences from the violation or from inappropriate remediation. We validated our approach using a series of experiments and response time datasets from real-world web services.\"\n\nauthors = [\"Ayman A. Amin\", \"Alan Colman\", \"Lars Grunske\"]\ndate = \"2014-04-22\"\nimage_preview = \"\"\nmath = true\npublication_types = [\"1\"]\npublication = \"In *Proceedings of the 3rd ACM/SPEC International Conference on Performance Engineering*\"\npublication_short = \"\"\nselected = false\ntitle = \"Statistical detection of QoS violations based on CUSUM control charts\"\nurl_code = \"\"\nurl_dataset = \"\"\nurl_pdf = \"\"\nurl_project = \"\"\nurl_slides = \"\"\nurl_video = \"\"\n\n[[url_custom]]\n name = \"View Journal Article\"\n url = \"https://dl.acm.org/citation.cfm?id=2188302\"\n\n# Optional featured image (relative to `static/img/` folder).\n[header]\nimage = \"\"\ncaption = \"\"\n\n+++\n",
+    "created" : 1525074247893.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2765459969",
+    "id" : "D160516A",
+    "lastKnownWriteTime" : 1525074517,
+    "last_content_update" : 1525074517702,
+    "path" : "D:/AymanAminWebsite/aymanamin/content/publication/2012-Icpe2012.md",
+    "project_path" : "content/publication/2012-Icpe2012.md",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

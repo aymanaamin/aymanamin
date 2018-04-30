@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "+++\nabstract = \"Predicting future values of Quality of Service (QoS) attributes can assist in the control of software intensive systems by preventing QoS violations before they happen. Currently, many approaches prefer Autoregressive Integrated Moving Average (ARIMA) models for this task, and assume the QoS attributes' behavior can be linearly modeled. However, the analysis of real QoS datasets shows that they are characterized by a highly dynamic and mostly nonlinear behavior to the extent that existing ARIMA models cannot guarantee accurate QoS forecasting, which can introduce crucial problems such as proactively triggering unrequired adaptations and thus leading to follow-up failures and increased costs. To address this limitation, we propose an automated forecasting approach that integrates linear and nonlinear time series models and automatically, without human intervention, selects and constructs the best suitable forecasting model to fit the QoS attributes' dynamic behavior. Using real-world QoS datasets of 800 web services we evaluate the applicability, accuracy, and performance aspects of the proposed approach.\"\n\nauthors = [\"Ayman A. Amin\", \"Lars Grunske\", \"Alan Colman\"]\ndate = \"2012-09-03\"\nimage_preview = \"\"\nmath = true\npublication_types = [\"1\"]\npublication = \"In *Proceedings of the 27th IEEE/ACM International Conference on Automated Software Engineering*\"\npublication_short = \"\"\nselected = false\ntitle = \"An automated approach to forecasting QoS attributes based on linear and non-linear time series modeling\"\nurl_code = \"\"\nurl_dataset = \"\"\nurl_pdf = \"\"\nurl_project = \"\"\nurl_slides = \"\"\nurl_video = \"\"\n\n[[url_custom]]\n name = \"View Journal Article\"\n url = \"https://dl.acm.org/citation.cfm?id=2351695\"\n\n# Optional featured image (relative to `static/img/` folder).\n[header]\nimage = \"\"\ncaption = \"\"\n\n+++\n",
+    "created" : 1525074279082.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1078851644",
+    "id" : "CE92EDAD",
+    "lastKnownWriteTime" : 1525074403,
+    "last_content_update" : 1525074403721,
+    "path" : "D:/AymanAminWebsite/aymanamin/content/publication/2012-ASE2012.md",
+    "project_path" : "content/publication/2012-ASE2012.md",
+    "properties" : {
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
