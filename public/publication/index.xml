@@ -104,69 +104,6 @@
     
     <item>
       <title>Reactive vs. Proactive Detection of Quality of Service Problems</title>
-      <link>https://aymanamin.rbind.io/publication/2009-hpi/</link>
-      <pubDate>Sat, 26 Jul 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://aymanamin.rbind.io/publication/2009-hpi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reactive vs. Proactive Detection of Quality of Service Problems</title>
-      <link>https://aymanamin.rbind.io/publication/2009-iccxs/</link>
-      <pubDate>Sat, 26 Jul 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://aymanamin.rbind.io/publication/2009-iccxs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reactive vs. Proactive Detection of Quality of Service Problems</title>
-      <link>https://aymanamin.rbind.io/publication/2009-thesis/</link>
-      <pubDate>Sat, 26 Jul 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://aymanamin.rbind.io/publication/2009-thesis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reactive vs. Proactive Detection of Quality of Service Problems</title>
-      <link>https://aymanamin.rbind.io/publication/2009-regionalconferenceofpopulation/</link>
-      <pubDate>Sat, 26 Jul 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://aymanamin.rbind.io/publication/2009-regionalconferenceofpopulation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reactive vs. Proactive Detection of Quality of Service Problems</title>
-      <link>https://aymanamin.rbind.io/publication/2010-idscworkingpaper/</link>
-      <pubDate>Sat, 26 Jul 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://aymanamin.rbind.io/publication/2010-idscworkingpaper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reactive vs. Proactive Detection of Quality of Service Problems</title>
-      <link>https://aymanamin.rbind.io/publication/2011-forecastingmethods/</link>
-      <pubDate>Sat, 26 Jul 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://aymanamin.rbind.io/publication/2011-forecastingmethods/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reactive vs. Proactive Detection of Quality of Service Problems</title>
-      <link>https://aymanamin.rbind.io/publication/2011-hase2011/</link>
-      <pubDate>Sat, 26 Jul 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://aymanamin.rbind.io/publication/2011-hase2011/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reactive vs. Proactive Detection of Quality of Service Problems</title>
       <link>https://aymanamin.rbind.io/publication/2014-reactivevsproactive/</link>
       <pubDate>Sat, 26 Jul 2014 00:00:00 +0000</pubDate>
       
@@ -216,6 +153,69 @@
       <pubDate>Sat, 09 Jun 2012 00:00:00 +0000</pubDate>
       
       <guid>https://aymanamin.rbind.io/publication/2012-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Automated Control Charts for the Runtime Evaluation of QoS Attributes</title>
+      <link>https://aymanamin.rbind.io/publication/2011-hase2011/</link>
+      <pubDate>Thu, 29 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanamin.rbind.io/publication/2011-hase2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Series Based Forecasting Methods</title>
+      <link>https://aymanamin.rbind.io/publication/2011-forecastingmethods/</link>
+      <pubDate>Tue, 26 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanamin.rbind.io/publication/2011-forecastingmethods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gibbs sampling for SARMA models</title>
+      <link>https://aymanamin.rbind.io/publication/2010-idscworkingpaper/</link>
+      <pubDate>Tue, 26 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanamin.rbind.io/publication/2010-idscworkingpaper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Inference for Seasonal ARMA Models: A Gibbs Sampling Approach</title>
+      <link>https://aymanamin.rbind.io/publication/2009-iccxs/</link>
+      <pubDate>Sat, 26 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanamin.rbind.io/publication/2009-iccxs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Inference for Seasonal ARMA Model: A Gibbs Sampling Approach</title>
+      <link>https://aymanamin.rbind.io/publication/2009-thesis/</link>
+      <pubDate>Sat, 26 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanamin.rbind.io/publication/2009-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating the quantitative values for the monitoring and evaluation indicators of the population problem (2005-2017)</title>
+      <link>https://aymanamin.rbind.io/publication/2009-regionalconferenceofpopulation/</link>
+      <pubDate>Sun, 26 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanamin.rbind.io/publication/2009-regionalconferenceofpopulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>House Price Index: International Experiences and A Methodology for Application in Egypt</title>
+      <link>https://aymanamin.rbind.io/publication/2009-hpi/</link>
+      <pubDate>Mon, 26 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanamin.rbind.io/publication/2009-hpi/</guid>
       <description></description>
     </item>
     

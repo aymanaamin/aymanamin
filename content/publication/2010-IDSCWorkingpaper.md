@@ -1,15 +1,15 @@
 +++
-abstract = "This paper summarizes our earlier contributions on reactive and proactive detection of quality of service problems. The first contribution is applying statistical control charts to reactively detect QoS violations. The second contribution is applying time series modeling to proactively detect potential QoS violations."
+abstract = "This paper introduces a fast, easy and accurate Gibbs sampling algorithm to develop a Bayesian inference for a multiplicative seasonal autoregressive moving average (SARMA) model. The proposed algorithm uses values generated from normal and inverse gamma distributions and does not involve any Metropolis-Hastings generation. Simulated examples and a real data set are used to illustrate the proposed algorithm."
 
-authors = ["Lars Grunske", "Ayman A. Amin"]
-date = "2014-07-26"
+authors = ["Ayman A. Amin", "Mohamed Ismail"]
+date = "2010-01-26"
 image_preview = ""
 math = true
 publication_types = ["1"]
-publication = "In *Proceedings of Software Engineering 2014*"
+publication = "In *Proceedings of Information and Decision Support Center-Working Paper Series*"
 publication_short = ""
 selected = false
-title = "Reactive vs. Proactive Detection of Quality of Service Problems"
+title = "Gibbs sampling for SARMA models"
 url_code = ""
 url_dataset = ""
 url_pdf = ""

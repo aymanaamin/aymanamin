@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Ayman Ahmed Amin</copyright>
-    <lastBuildDate>Tue, 28 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2009 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://aymanamin.rbind.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>0</title>
+      <link>https://aymanamin.rbind.io/publication_types/0/</link>
+      <pubDate>Sat, 26 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanamin.rbind.io/publication_types/0/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>1</title>
@@ -27,6 +36,15 @@
       <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://aymanamin.rbind.io/publication_types/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4</title>
+      <link>https://aymanamin.rbind.io/publication_types/4/</link>
+      <pubDate>Tue, 26 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanamin.rbind.io/publication_types/4/</guid>
       <description></description>
     </item>
     
