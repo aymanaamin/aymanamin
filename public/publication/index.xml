@@ -112,15 +112,6 @@
     </item>
     
     <item>
-      <title>Statistical detection of QoS violations based on CUSUM control charts</title>
-      <link>https://aymanamin.rbind.io/publication/2012-icpe2012/</link>
-      <pubDate>Tue, 22 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://aymanamin.rbind.io/publication/2012-icpe2012/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>An approach to software reliability prediction based on time series modeling</title>
       <link>https://aymanamin.rbind.io/publication/2013-softwarereliabilityprediction/</link>
       <pubDate>Fri, 12 Jul 2013 00:00:00 +0000</pubDate>
@@ -157,6 +148,15 @@
     </item>
     
     <item>
+      <title>Statistical detection of QoS violations based on CUSUM control charts</title>
+      <link>https://aymanamin.rbind.io/publication/2012-icpe2012/</link>
+      <pubDate>Sun, 22 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanamin.rbind.io/publication/2012-icpe2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Using Automated Control Charts for the Runtime Evaluation of QoS Attributes</title>
       <link>https://aymanamin.rbind.io/publication/2011-hase2011/</link>
       <pubDate>Thu, 29 Dec 2011 00:00:00 +0000</pubDate>
@@ -171,6 +171,15 @@
       <pubDate>Tue, 26 Jul 2011 00:00:00 +0000</pubDate>
       
       <guid>https://aymanamin.rbind.io/publication/2011-forecastingmethods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Series Modeling Based Software Reliability Prediction</title>
+      <link>https://aymanamin.rbind.io/publication/2010-softwarereliabilityprediction/</link>
+      <pubDate>Sun, 26 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanamin.rbind.io/publication/2010-softwarereliabilityprediction/</guid>
       <description></description>
     </item>
     

@@ -1,19 +1,19 @@
 {
     "collab_server" : "",
     "contents" : "---\nsite: blogdown:::blogdown_site\n---\n",
-    "created" : 1524614387285.000,
+    "created" : 1525440243734.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "1542943790",
-    "id" : "76AEE1A",
+    "id" : "D7D9F157",
     "lastKnownWriteTime" : 1525440245,
-    "last_content_update" : 1525440245,
+    "last_content_update" : 1525440245725,
     "path" : "D:/AymanAminWebsite/aymanamin/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
     },
-    "relative_order" : 1,
+    "relative_order" : 2,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_markdown"

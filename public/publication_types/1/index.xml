@@ -49,15 +49,6 @@
     </item>
     
     <item>
-      <title>Statistical detection of QoS violations based on CUSUM control charts</title>
-      <link>https://aymanamin.rbind.io/publication/2012-icpe2012/</link>
-      <pubDate>Tue, 22 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://aymanamin.rbind.io/publication/2012-icpe2012/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>An automated approach to forecasting QoS attributes based on linear and non-linear time series modeling</title>
       <link>https://aymanamin.rbind.io/publication/2012-ase2012/</link>
       <pubDate>Mon, 03 Sep 2012 00:00:00 +0000</pubDate>
@@ -81,6 +72,15 @@
       <pubDate>Sat, 09 Jun 2012 00:00:00 +0000</pubDate>
       
       <guid>https://aymanamin.rbind.io/publication/2012-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical detection of QoS violations based on CUSUM control charts</title>
+      <link>https://aymanamin.rbind.io/publication/2012-icpe2012/</link>
+      <pubDate>Sun, 22 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanamin.rbind.io/publication/2012-icpe2012/</guid>
       <description></description>
     </item>
     
