@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "library(rminer)\n# read previously saved file\nmath=read.table(file=\"math2.csv\",header=TRUE) \n\ninputs=1:32 # all except G3 and pass \nfout=which(names(math)==\"five\")\ncat(\"output class:\",class(math[,fout]),\"\\n\")\ncmath=math[,c(inputs,fout)] # for easy use\nH=holdout(cmath$five,2/3,123)\ny=cmath[H$ts,]$five # target\n\n# simple fit of randomForest\nC1=fit(five~.,cmath[H$tr,],model=\"randomForest\")\nP1=predict(C1,cmath[H$ts,]) # class predictions\nprint(P1[1,]) # show 1st prediction\nm=mmetric(y,P1,metric=c(\"AUC\",\"AUCCLASS\"))\nprint(m) # global AUC, AUC per class\nm=mmetric(y,P1,metric=c(\"CONF\")) # a)\nprint(m$conf) # confusion matrix\nm=mmetric(y,P1,metric=c(\"ALL\"))\nprint(round(m,1)) # all prob. metrics\n\n# ROC curve for class \"A\"\nTC=1\ntxt=paste(\"class\",levels(y)[TC],\"AUC:\",round(mmetric(y,P1,metric=\"AUC\",TC=TC),2))\nmgraph(y,P1,graph=\"ROC\",baseline=TRUE,Grid=10,main=txt,TC=2,PDF=\"roc-2\")\n\nI=Importance(C1,cmath[H$tr,])\nprint(round(I$imp,digits=2))\nimax=which.max(I$imp)\n\nL=list(runs=1,sen=t(I$imp),sresponses=I$sresponses) # create a simple mining list\nmgraph(L,graph=\"IMP\",leg=names(cmath),col=\"gray\",Grid=10,PDF=\"imp-1\")\ntxt=paste(\"VEC curve for\",names(cmath)[imax],\"influence on class\",levels(y)[TC])\nmgraph(L,graph=\"VEC\",xval=imax,Grid=10,data=cmath[H$tr,],TC=1,main=txt,PDF=\"vec-1\")\n",
+    "created" : 1525420673753.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "348736657",
+    "id" : "4046F901",
+    "lastKnownWriteTime" : 1436791732,
+    "last_content_update" : 1436791732,
+    "path" : "C:/Users/TOP/Downloads/rminer/tutorial/eval-2.R",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

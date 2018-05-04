@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "# simple show rows x columns function\nnelems=function(d) paste(nrow(d),\"x\",ncol(d))\n\n# load the famous Iris dataset:\ndata(iris) # load the data\ncat(\"iris:\",nelems(iris),\"\\n\")\nprint(class(iris)) # show class\nprint(names(iris)) # show attributes\n\n### load all my UCI ML datasets ###\n\n# White Wine Quality dataset:\nURL=\"http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv\"\nwine=read.table(file=URL,header=TRUE,sep=\";\")\ncat(\"wine quality white:\",nelems(wine),\"\\n\")\nprint(class(wine)) # show class\nnelems(wine) # show rows x columns\nprint(names(wine)) # show attributes\n\n# forest fires dataset:\nURL=\"http://archive.ics.uci.edu/ml/machine-learning-databases/forest-fires/forestfires.csv\"\nfires=read.table(file=URL,header=TRUE,sep=\",\") \ncat(\"forest fires:\",nelems(fires),\"\\n\")\nprint(class(fires)) # show class\nprint(names(fires)) # show attributes\n\n# load bank marketing dataset (in zip file):\nURL=\"http://archive.ics.uci.edu/ml/machine-learning-databases/00222/bank-additional.zip\"\ntemp=tempfile() # temporary file\ndownload.file(URL,temp) # download file to temporary\n# unzip file and load into data.frame:\nbank=read.table(unz(temp,\"bank-additional/bank-additional.csv\"),sep=\";\",header=TRUE)\ncat(\"bank marketing:\",nelems(bank),\"\\n\")\nprint(class(bank)) # show class\nprint(names(bank)) # show attributes\n\n# student performance dataset (in zip file):\nURL=\"http://archive.ics.uci.edu/ml/machine-learning-databases/00320/student.zip\"\ntemp=tempfile() # temporary file\ndownload.file(URL,temp) # download file to temporary\n# unzip file and load into data.frame:\nmath=read.table(unz(temp,\"student-mat.csv\"),sep=\";\",header=TRUE)\ncat(\"student performance math:\",nelems(math),\"\\n\")\nprint(class(math)) # show class\nprint(names(math)) # show attributes\n# save data.frame to csv file:\nwrite.table(math,file=\"math.csv\",row.names=FALSE,col.names=TRUE)\n\n# internet traffic (time series):\nURL=\"http://www3.dsi.uminho.pt/pcortez/data/internet-traffic-data-in-bits-fr.csv\"\ntraffic=read.table(URL,sep=\";\",header=TRUE)\ncat(\"internet traffic:\",nelems(traffic),\"\\n\")\nprint(class(traffic)) # show class\nprint(names(traffic)) # show attributes\n\n",
+    "created" : 1525420406272.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3946655270",
+    "id" : "EA83A5CC",
+    "lastKnownWriteTime" : 1434103916,
+    "last_content_update" : 1434103916,
+    "path" : "C:/Users/TOP/Downloads/rminer/tutorial/prep-1.R",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "# preparation\nmath=read.table(file=\"math.csv\",header=TRUE) # read previously saved file\n\n# binary task:\npass=cut(math$G3,c(-1,9,20),c(\"fail\",\"pass\"))\n# five-level system:\nfive=cut(math$G3,c(-1,9,11,13,15,20),c(\"F\",\"D\",\"C\",\"B\",\"A\")) # Ireland grades\n# create pdf:\npdf(\"math-grades.pdf\")\npar(mfrow=c(1,3))\nplot(pass,main=\"pass\")\nplot(five,main=\"five\")\nhist(math$G3,col=\"gray\",main=\"G3\",xlab=\"\")\ndev.off() # end of pdf creation\n\n# creating the full dataset:\nd=cbind(math,pass,five)\nwrite.table(d,\"math2.csv\",row.names=FALSE,col.names=TRUE) # save to file\n",
+    "created" : 1525420701019.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2777718940",
+    "id" : "B49811EC",
+    "lastKnownWriteTime" : 1434116126,
+    "last_content_update" : 1434116126,
+    "path" : "C:/Users/TOP/Downloads/rminer/tutorial/math-1.R",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

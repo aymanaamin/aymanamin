@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "### row and column selection examples:\n# select only virginica data rows:\nprint(\"-- 1st example: selection of virginica rows --\")\niris2=iris[iris$Species==\"virginica\",]\ncat(\"iris2\",nelems(iris2),\"\\n\")\nprint(table(iris2$Species))\n\n# select a random subsample of white wine dataset:\nprint(\"-- 2nd example: selection of 500 wine samples --\")\nset.seed(12345) # set for replicability\ns=sample(1:nrow(wine),500) # random with 500 indexes\nwine2=wine[s,] # wine2 has only 500 samples from wine\ncat(\"wine2\",nelems(wine2),\"\\n\")\n\n# column (attribute) selection example:\nprint(\"-- 3rd example: selection of 5 wine columns --\")\natt=c(3,6,8,11,12) # select 5 attributes\nwine3=wine2[,att]\ncat(\"wine3\",nelems(wine3),\"\\n\")\nprint(names(wine3))\n\n### attribute transformation examples:\n# numeric to discrete: \n# three classes poor=[1 to 4], average=[5 to 6], good=[6 to 10]\nprint(\"-- 4th example: numeric to discrete transform (wine) --\")\nwine3$quality=cut(wine3$quality,c(1,4,6,10),c(\"poor\",\"average\",\"good\"))\nprint(table(wine2$quality))\nprint(table(wine3$quality))\n# save new data.frame to csv file:\nwrite.table(wine3,file=\"wine3.csv\",row.names=FALSE,col.names=TRUE)\n\n# numeric to numeric:\n# log transform to forest fires area (positive skew)\nprint(\"-- 5th example: numeric to numeric transform (forest fires) --\")\nlogarea=log(fires$area+1)\npdf(\"prep2-1.pdf\") # create pdf file\npar(mfrow=c(2,1))\nhist(fires$area,col=\"gray\")\nhist(logarea,col=\"gray\")\ndev.off() # end of pdf creation\n\n# discrete to discrete (factor to factor)\n# transform month into trimesters\nprint(\"-- 6th example: discrete to discrete (bank marketing) --\")\nprint(table(bank$month))\ntri=delevels(bank$month,levels=c(\"jan\",\"feb\",\"mar\"),label=\"1st\")\ntri=delevels(tri,levels=c(\"apr\",\"may\",\"jun\"),label=\"2nd\")\ntri=delevels(tri,levels=c(\"jul\",\"aug\",\"sep\"),label=\"3rd\")\ntri=delevels(tri,levels=c(\"oct\",\"nov\",\"dec\"),label=\"4th\")\n# put the levels in order:\ntri=relevel(tri,\"1st\")\nprint(table(tri))\n# create new data.frame with bank and new atribute:\nbank2=cbind(bank[1:9],tri,bank[10:ncol(bank)])\ncat(\"bank2\",nelems(bank2),\"\\n\")\nprint(names(bank2))\n\n# time series to data.frame using a sliding time window\n# useful for fitting a data-driven model:\nprint(\"-- 6th example: time series to data.frame (internet traffic) --\")\ndtraffic=CasesSeries(traffic[,2],c(1,2,24),1,30)\nprint(dtraffic)\n",
+    "created" : 1525420596920.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2348580019",
+    "id" : "A318CCC2",
+    "lastKnownWriteTime" : 1434115284,
+    "last_content_update" : 1434115284,
+    "path" : "C:/Users/TOP/Downloads/rminer/tutorial/prep-2.R",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
