@@ -41,15 +41,6 @@
     
     <url>
     
-      <loc>https://aymanamin.rbind.io/post/topic-modeling-an-application/</loc>
-      <lastmod>2017-11-11T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://aymanamin.rbind.io/publication/2017-analyticdsarma/</loc>
       <lastmod>2017-10-12T00:00:00+00:00</lastmod>
     </url>
@@ -355,26 +346,6 @@
     
     <url>
     
-      <loc>https://aymanamin.rbind.io/categories/lda/</loc>
-      <lastmod>2017-11-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://aymanamin.rbind.io/tags/lda/</loc>
-      <lastmod>2017-11-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://aymanamin.rbind.io/tags/linear-regression/</loc>
       <lastmod>2018-01-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -415,68 +386,8 @@
     
     <url>
     
-      <loc>https://aymanamin.rbind.io/categories/r/</loc>
-      <lastmod>2017-11-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://aymanamin.rbind.io/tags/r/</loc>
-      <lastmod>2017-11-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://aymanamin.rbind.io/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://aymanamin.rbind.io/categories/text-analytics/</loc>
-      <lastmod>2017-11-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://aymanamin.rbind.io/tags/text-analytics/</loc>
-      <lastmod>2017-11-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://aymanamin.rbind.io/categories/topic-modeling/</loc>
-      <lastmod>2017-11-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://aymanamin.rbind.io/tags/topic-modeling/</loc>
-      <lastmod>2017-11-11T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
