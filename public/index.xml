@@ -43,6 +43,38 @@
     </item>
     
     <item>
+      <title>Topic Modeling: An Application</title>
+      <link>https://aymanamin.rbind.io/post/topic-modeling-an-application/</link>
+      <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanamin.rbind.io/post/topic-modeling-an-application/</guid>
+      <description>&lt;div id=&#34;introduction&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;My work involves the use and the development of topic modeling algorithms. A surprising challenge I have had is communicating the output of topic modeling algorithms to people not familiar with text analytics. Here is my 10 cents explanation of the LDA output to my econ friends.&lt;/p&gt;
+&lt;p&gt;The use of text data for &lt;a href=&#34;http://review.chicagobooth.edu/magazine/spring-2015/why-words-are-the-new-numbers&#34; target=&#34;_blank&#34;&gt;economic analysis&lt;/a&gt; is gaining attractions. One popular analytical tool is Latent Dirichlet Allocation (LDA), also called topic modeling &lt;span class=&#34;citation&#34;&gt;[@Blei2003]&lt;/span&gt;. Succinctly put, topic modeling consists of collapsing a matrix (i.e a spreadsheet) of words counts into a reduced matrix of topics’ proportions within documents. For instance, assume we have a collection of 500 documents, each containing 2000 unique words; this collection of documents (called corpus) can be represented as a dataset of 500 observations and 2000 variables (each word being a variable). Each cell in the matrix represents the count of a word in a document. The matrix is just a regular spreadsheet of data. Clearly, it is almost impossible to draw any insight from that many variables. LDA allows us to collapse the high dimensional dataset into a lower dimension, say a dimension of 10. With 10 variables, there is a hope that some insight can be drawn from the data. Following is a demonstration of LDA.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;example-data&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Example Data&lt;/h1&gt;
+&lt;p&gt;Let’s consider a dataset of U.S. governors’ State of the State Addresses (SoSA). In most states, the governor gives a speech, generally in January, in which he/she lays out his/her priorities for the next fiscal year. Part of the goal of the speech is to explain (or justify) the proposed budget, and hopefully convince the state stakeholders to support the proposed budget. A budget proposal usually involves a reallocation of the state resources, which implies cuts and increases in different lines of the state budget. I collected 596 speeches from governors of the 50 states, spanning from 2001 to 2013.&lt;/p&gt;
+&lt;p&gt;It is customary in text analytics to delete words that we believe are not “discriminative”. For instance link words such as “the”, “and”, “she”, etc. will not distinguish a Democrat from a Republican. We call this process, pre-processing the data, that is, cleaning the data by removing elements in the texts that we believe are not useful for our analysis.&lt;/p&gt;
+&lt;p&gt;After pre-processing the data, I am left with a dataset of 596 observations and 1034 words (or variables). You can take a look at the pre-processed data &lt;a href=&#34;http://rpubs.com/sbikienga/334137&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;, or you can download it &lt;a href=&#34;https://github.com/Salfo/States-Addresses/raw/master/data/SoSA_data_df.RData&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. Stemming, that is stripping the words to their roots, is often done to avoid counting related words separately. For example, education, educational, educate are stemmed and become educ.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;example-application-of-lda&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Example application of LDA&lt;/h1&gt;
+&lt;p&gt;The goal when using LDA is primarily to reduce the dimension of a counts dataset. The hope is that the reduced dimension preserves the essential information contained in the original dataset. Interestingly, the reduced dimension is often more appropriate for statistical analysis, as it “solves” the overfitting problem associated with high dimensional data. Generally, the overfitting problem arises in situations where &lt;span class=&#34;math inline&#34;&gt;\(n\)&lt;/span&gt;, the number of observations, is not big enough to provide reliable estimates of the &lt;span class=&#34;math inline&#34;&gt;\(p\)&lt;/span&gt; variables’ parameters.&lt;/p&gt;
+&lt;p&gt;There are several packages in R to implement the LDA model (&lt;code&gt;lda&lt;/code&gt;, &lt;code&gt;mallet&lt;/code&gt;, and &lt;code&gt;topicmodels&lt;/code&gt;). Here I will use the &lt;code&gt;topicmodels&lt;/code&gt; package as an example.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;conclusion&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Conclusion&lt;/h1&gt;
+&lt;p&gt;In sum, topic modeling in general and LDA in particular is a dimension reduction method. It consists of collapsing a matrix of words counts into a reduced matrix of topics distributions. This illustration provides a sense of its usefulness for statistical analysis.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;references&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;References&lt;/h1&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Bayesian inference for double SARMA models</title>
       <link>https://aymanamin.rbind.io/publication/2017-analyticdsarma/</link>
       <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
@@ -138,15 +170,6 @@
       <pubDate>Mon, 03 Sep 2012 00:00:00 +0000</pubDate>
       
       <guid>https://aymanamin.rbind.io/publication/2012-ase2012/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An approach to forecasting QoS attributes of web services based on ARIMA and GARCH models</title>
-      <link>https://aymanamin.rbind.io/publication/2012-icws2012/</link>
-      <pubDate>Sun, 24 Jun 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://aymanamin.rbind.io/publication/2012-icws2012/</guid>
       <description></description>
     </item>
     
