@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "+++\n# Recent Posts widget.\n# This widget displays recent posts from `content/post/`.\n\ndate = \"2016-04-20T00:00:00\"\ndraft = false\n\ntitle = \"Recent Posts\"\nsubtitle = \"\"\nwidget = \"posts\"\n\n# Order that this section will appear in.\nweight = 30\n\n# Filter posts by tag.\n#  By default, show all recent posts.\n#  Filtering example: `tags_include = [\"hugo\", \"academic\"]`\ntags_include = []\ntags_exclude = []\n\n# Number of posts to list.\ncount = 5\n\n+++\n\n",
+    "created" : 1526650580855.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "223101222",
+    "id" : "B13829D6",
+    "lastKnownWriteTime" : 1526650585,
+    "last_content_update" : 1526650585625,
+    "path" : "D:/AymanAminWebsite/aymanamin/content/home/posts.md",
+    "project_path" : "content/home/posts.md",
+    "properties" : {
+    },
+    "relative_order" : 13,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
