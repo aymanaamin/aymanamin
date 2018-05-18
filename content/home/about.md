@@ -16,7 +16,11 @@ weight = 1
     "Forecasting Quality Attributes",
     "Bayesian Statistics",
     "Forecasting Methods",
-    "Statistical Modeling"
+    "Statistical Modeling",
+    "Machine Learning", 
+    "Sequential Analysis", 
+    "Statistical Composite Indicators",
+    "Statistical Process Control"
   ]
 
 # List your qualifications (such as academic degrees).
