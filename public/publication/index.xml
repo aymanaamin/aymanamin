@@ -13,11 +13,29 @@
     
     
     <item>
+      <title>Bayesian Identification of Double Seasonal Autoregressive Time Series Models</title>
+      <link>https://aymanamin.rbind.io/publication/2018-identificationdsar/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanamin.rbind.io/publication/2018-identificationdsar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Kullback-Leibler divergence to evaluate posterior sensitivity to different priors for autoregressive time series models</title>
       <link>https://aymanamin.rbind.io/publication/2018-kl-arestimation/</link>
       <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://aymanamin.rbind.io/publication/2018-kl-arestimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of Double Seasonal Autoregressive Models: A Bayesian Approach</title>
+      <link>https://aymanamin.rbind.io/publication/2017-identificationdsar/</link>
+      <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanamin.rbind.io/publication/2017-identificationdsar/</guid>
       <description></description>
     </item>
     
