@@ -1,0 +1,2 @@
+library(blogdown)
+install_hugo()
