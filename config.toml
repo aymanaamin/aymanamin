@@ -29,7 +29,7 @@ defaultContentLanguageInSubdir = false
   organization_url = "http://www.menofia.edu.eg/Home/en"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "ayman-pic.jpg" # Specify an avatar image (in `static/img/` folder)
-  email = "ayman.a.amin@gmail.com"
+  email = "aymanaamin@gmail.com"
   address = ""
   office_hours = ""
   phone = ""
@@ -132,7 +132,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "paper-plane"
     icon_pack = "fa"
-    link = "mailto:ayman.a.amin@gmail.com"
+    link = "mailto:aymanaamin@gmail.com"
 
 
   [[params.social]]
