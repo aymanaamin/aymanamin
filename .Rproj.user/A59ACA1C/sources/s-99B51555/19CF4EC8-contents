@@ -2,16 +2,10 @@
 title: ' الأمية في مصر- بمناسبة اليوم الدولي لمحو الأمية 2018' 
 author: Ayman Amin
 date: '2018-09-09'
-categories:
-  - مؤشرات مصرية
-tags:
-  - Illiteracy
-  - الأمية
-  - ُEgypt 
-summary: الأمية في مصر – نظرة رقمية باستخدام بيانات تعدادي السكان 2006 و 2017  بمناسبة اليوم الدولي لمحو الأمية 2018
-slug: Illiteracy-inEgypt
+output:
+  pdf_document:
+documentclass: article
 ---
-
 
 
 
@@ -84,7 +78,6 @@ knitr::include_graphics('D:/AymanAminWebsite/aymanamin/static/img/posts/2018-09-
 <p align="right">
 **تحديث**
 </p>
-
 
 <p align="right">
 يمكن تحميل هذا المنشور في صورة ملف كامل من هنا.
