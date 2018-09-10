@@ -45,4 +45,7 @@ slug: Illiteracy-inEgypt
 knitr::include_graphics('D:/AymanAminWebsite/aymanamin/static/img/ayman-pic.jpg')
 ```
 
+```{r, fig.cap=paste("\\label{fig:bitcoin_graphics} "), echo=FALSE, out.width = "300px"}
+knitr::include_graphics('D:/AymanAminWebsite/aymanamin/static/img/ayman-pic.jpg')
+```
 
