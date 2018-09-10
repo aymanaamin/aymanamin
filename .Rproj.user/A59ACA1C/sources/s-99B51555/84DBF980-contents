@@ -42,7 +42,7 @@ slug: Illiteracy-inEgypt
 
 
 ```{r echo=FALSE}
-knitr::include_graphics('D:/AymanAminWebsite/aymanamin/static/img/ayman-pic.jpg')
+knitr::include_graphics('/img/ayman-pic.jpg')
 ```
 
 ```{r, fig.cap=paste("\\label{fig:bitcoin_graphics} "), echo=FALSE, out.width = "300px"}
