@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536612420163.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1272384425",
+    "id" : "2CBF07E4",
+    "lastKnownWriteTime" : 1536612572,
+    "last_content_update" : 1536612572217,
+    "path" : "D:/AymanAminWebsite/aymanamin/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "37,13",
+        "scrollLine" : "23"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
