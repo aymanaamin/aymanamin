@@ -7,15 +7,15 @@
     "folds" : "",
     "hash" : "0",
     "id" : "8110ECA9",
-    "lastKnownWriteTime" : 1536354115,
-    "last_content_update" : 1536354115,
+    "lastKnownWriteTime" : 1536600158,
+    "last_content_update" : 1536600158219,
     "path" : "D:/0 Library/LaTex Files for other Researchers/bitcoin-forecasting-master/bitcoin-forecasting-master-mytrial/src/Bitcoin.Rmd",
     "project_path" : null,
     "properties" : {
-        "cursorPosition" : "22,0",
-        "scrollLine" : "7"
+        "cursorPosition" : "37,46",
+        "scrollLine" : "33"
     },
-    "relative_order" : 5,
+    "relative_order" : 2,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_markdown"
