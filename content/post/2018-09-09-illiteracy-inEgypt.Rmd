@@ -48,6 +48,6 @@ knitr::include_graphics('/img/posts/2018-09-09-illiteracy-inEgypt/illit-1.png')
 
 
 ```{r echo=FALSE}
-knitr::include_graphics('/img/posts/2018-09-09-illiteracy-inEgypt/map-1.jpg')
+knitr::include_graphics('/img/posts/2018-09-09-illiteracy-inEgypt/map-1.jpeg')
 ```
 
