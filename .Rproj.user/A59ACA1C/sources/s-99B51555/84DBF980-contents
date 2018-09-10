@@ -14,10 +14,6 @@ slug: Illiteracy-inEgypt
 
 
 
-```{r global_options, include=FALSE, warning=FALSE}
-knitr::opts_chunk$set(warning=FALSE, message=FALSE,eval = FALSE, collapse = TRUE, comment = NA, tidy = FALSE)
-```
-
 
 <p align="right">
 بالأمس تم الاحتفال <a href = "https://ar.unesco.org/themes/literacy-all/literacy-day"> باليوم  الدولي لمحو الأمية </a>، في كثير من الدول التي أحدثت تقدماً في القضاء علي الأمية. 
@@ -48,10 +44,5 @@ knitr::opts_chunk$set(warning=FALSE, message=FALSE,eval = FALSE, collapse = TRUE
 ```{r echo=FALSE}
 knitr::include_graphics('D:/AymanAminWebsite/aymanamin/static/img/ayman-pic.jpg')
 ```
-
-```{r, fig.cap=paste("\\label{fig:bitcoin_graphics}Bitcoin Illustration"), echo=FALSE, out.width = "300px"}
-knitr::include_graphics('D:/AymanAminWebsite/aymanamin/static/img/bitcoin.jpg')
-```
-
 
 
