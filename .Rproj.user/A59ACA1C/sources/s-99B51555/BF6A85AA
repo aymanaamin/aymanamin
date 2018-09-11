@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3938747730",
+    "hash" : "0",
     "id" : "BF6A85AA",
     "lastKnownWriteTime" : 1536598515,
     "last_content_update" : 1536598515943,
     "path" : "D:/AymanAminWebsite/draftpost/2017-06-12-up-and-running-with-blogdown.Rmd",
     "project_path" : null,
     "properties" : {
-        "cursorPosition" : "20,0",
-        "scrollLine" : "4"
+        "cursorPosition" : "1,35",
+        "scrollLine" : "0"
     },
     "relative_order" : 4,
     "source_on_save" : false,

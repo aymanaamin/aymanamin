@@ -86,7 +86,7 @@ knitr::include_graphics('/img/posts/2018-09-09-illiteracy-inEgypt/illit.png')
 </p>
 
 <p align="right">
-يمكن تحميل هذا المنشور في صورة ملف كامل من <a href = " https://www.researchgate.net/profile/Ayman_Amin2/publication/327569176_IlliteracyinEgypt2017/data/5b97154892851c78c41795e8/IlliteracyinEgypt2017.pdf
+<a href = " https://www.researchgate.net/profile/Ayman_Amin2/publication/327569176_IlliteracyinEgypt2017/data/5b97154892851c78c41795e8/IlliteracyinEgypt2017.pdf
 "> يمكن تحميل هذا المنشور في صورة ملف كامل من هنا</a>.
 </p>
 
