@@ -42,7 +42,7 @@ slug: Illiteracy-inEgypt
 
 
 ```{r echo=FALSE}
-knitr::include_graphics('D:/AymanAminWebsite/aymanamin/static/img/posts/2018-09-09-illiteracy-inEgypt/map-2.png')
+knitr::include_graphics('img/posts/2018-09-09-illiteracy-inEgypt/map-2.png')
 ```
 
 <p align="right">
@@ -66,7 +66,7 @@ knitr::include_graphics('D:/AymanAminWebsite/aymanamin/static/img/posts/2018-09-
 
 
 ```{r echo=FALSE}
-knitr::include_graphics('D:/AymanAminWebsite/aymanamin/static/img/posts/2018-09-09-illiteracy-inEgypt/illit-1.png')
+knitr::include_graphics('/img/posts/2018-09-09-illiteracy-inEgypt/illit-1.png')
 ```
 <p align="right">
 المصدر: تقرير <a href = "https://capmas.gov.eg"> الجهاز المركزي للتعبئة العامة والإحصاء </a> الخاص  <a href = " https://capmas.gov.eg/party/party.html"> بتعداد السكان 2017</a>
