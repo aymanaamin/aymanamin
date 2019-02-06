@@ -9,6 +9,14 @@ tags:
   - Linear Regression
 slug: population-problem-inEgypt
 ---
+<style>
+h1, h2, h3, h4, h5, h6 {
+  direction: rtl;
+}
+p {
+  direction: rtl;
+}
+</style>
 
 
 
