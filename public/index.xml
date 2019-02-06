@@ -141,7 +141,7 @@ p {
       <description>
 
 
-&lt;style&gt;
+&lt;style type=&#34;text/css&#34;&gt;
 h1.title {
    direction: rtl;
 }
