@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Ayman A. Amin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Ayman Ahmed Amin</copyright>
+    <copyright>&amp;copy; Ayman Ahmed Amin 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://aymanamin.rbind.io/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -40,11 +40,47 @@
     </item>
     
     <item>
-      <title>Ols</title>
+      <title>OLS</title>
       <link>https://aymanamin.rbind.io/tags/ols/</link>
       <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://aymanamin.rbind.io/tags/ols/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>autism</title>
+      <link>https://aymanamin.rbind.io/tags/autism/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanamin.rbind.io/tags/autism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eye-tracking</title>
+      <link>https://aymanamin.rbind.io/tags/eye-tracking/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanamin.rbind.io/tags/eye-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>natural-language-processing</title>
+      <link>https://aymanamin.rbind.io/tags/natural-language-processing/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanamin.rbind.io/tags/natural-language-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>outcomes</title>
+      <link>https://aymanamin.rbind.io/tags/outcomes/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanamin.rbind.io/tags/outcomes/</guid>
       <description></description>
     </item>
     

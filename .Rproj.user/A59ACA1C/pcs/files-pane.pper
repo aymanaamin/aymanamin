@@ -1,10 +1,6 @@
 {
-    "path" : "D:/AymanAminWebsite/aymanamin/themes/hugo-academic",
+    "path" : "D:/0 Library/RMarkdown-Github-Latex Materials/blogdown/apreshill-master - Ayman/content",
     "sortOrder" : [
-        {
-            "ascending" : false,
-            "columnIndex" : 4
-        },
         {
             "ascending" : true,
             "columnIndex" : 2
