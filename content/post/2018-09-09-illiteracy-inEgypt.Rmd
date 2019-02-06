@@ -11,7 +11,14 @@ tags:
 summary: الأمية في مصر – نظرة رقمية باستخدام بيانات تعدادي السكان 2006 و 2017  بمناسبة اليوم الدولي لمحو الأمية 2018
 slug: Illiteracy-inEgypt
 ---
-
+<style>
+h1, h2, h3, h4, h5, h6 {
+  direction: rtl;
+}
+p {
+  direction: rtl;
+}
+</style>
 
 
 
