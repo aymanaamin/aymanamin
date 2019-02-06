@@ -120,13 +120,13 @@ enableGitInfo = false
   time_format = "3:04 PM"
 
   # Show estimated reading time for posts?
-  reading_time = true
+  reading_time = false
 
   # Display comment count? Requires commenting to be enabled.
-  comment_count = true
+  comment_count = false
 
   # Display next/previous section pager?
-  section_pager = false
+  section_pager = true
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
@@ -247,7 +247,7 @@ enableGitInfo = false
 
   [[params.social]]
     icon = "paper-plane"
-    icon_pack = "fa"
+    icon_pack = "fas"
     link = "mailto:aymanaamin@gmail.com"
 
 
@@ -268,18 +268,18 @@ enableGitInfo = false
     
   [[params.social]]
     icon = "linkedin"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "https://www.linkedin.com/in/ayman-amin-a45b1441/"
 
   [[params.social]]
     icon = "facebook"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "https://www.facebook.com/aymanaamin"
 
 
   [[params.social]]
     icon = "twitter"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "//twitter.com/aymanaamin"
 
 #  [[params.social]]
