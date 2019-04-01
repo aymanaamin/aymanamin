@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A New Look at Bayesian Identification of Moving Average Models</title>
+      <link>https://aymanamin.rbind.io/publication/2018-identificationma/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanamin.rbind.io/publication/2018-identificationma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian inference for double SARMA models</title>
+      <link>https://aymanamin.rbind.io/publication/2018-analyticdsarma/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanamin.rbind.io/publication/2018-analyticdsarma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title> الأمية في مصر- بمناسبة اليوم الدولي لمحو الأمية 2018</title>
       <link>https://aymanamin.rbind.io/post/illiteracy-inegypt/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
@@ -183,15 +201,6 @@ p {
     </item>
     
     <item>
-      <title>Bayesian inference for double SARMA models</title>
-      <link>https://aymanamin.rbind.io/publication/2017-analyticdsarma/</link>
-      <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://aymanamin.rbind.io/publication/2017-analyticdsarma/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Bayesian Inference for Double Seasonal Moving Average Models: A Gibbs Sampling Approach</title>
       <link>https://aymanamin.rbind.io/publication/2017-gibbsdsma/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
@@ -233,15 +242,6 @@ p {
       <pubDate>Wed, 23 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>https://aymanamin.rbind.io/publication/2015-gibbsdsar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gibbs Sampling for Double Seasonal Moving Average Models</title>
-      <link>https://aymanamin.rbind.io/publication/2015-gibbsdsma/</link>
-      <pubDate>Sun, 26 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://aymanamin.rbind.io/publication/2015-gibbsdsma/</guid>
       <description></description>
     </item>
     

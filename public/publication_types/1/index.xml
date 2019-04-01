@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Ayman Ahmed Amin 2018</copyright>
-    <lastBuildDate>Tue, 26 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://aymanamin.rbind.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A New Look at Bayesian Identification of Moving Average Models</title>
+      <link>https://aymanamin.rbind.io/publication/2018-identificationma/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanamin.rbind.io/publication/2018-identificationma/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Identification of Double Seasonal Autoregressive Models: A Bayesian Approach</title>

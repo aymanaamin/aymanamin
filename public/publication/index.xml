@@ -13,6 +13,24 @@
     
     
     <item>
+      <title>A New Look at Bayesian Identification of Moving Average Models</title>
+      <link>https://aymanamin.rbind.io/publication/2018-identificationma/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanamin.rbind.io/publication/2018-identificationma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian inference for double SARMA models</title>
+      <link>https://aymanamin.rbind.io/publication/2018-analyticdsarma/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanamin.rbind.io/publication/2018-analyticdsarma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bayesian Identification of Double Seasonal Autoregressive Time Series Models</title>
       <link>https://aymanamin.rbind.io/publication/2018-identificationdsar/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
@@ -45,15 +63,6 @@
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://aymanamin.rbind.io/publication/2017-kl-aridentification/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian inference for double SARMA models</title>
-      <link>https://aymanamin.rbind.io/publication/2017-analyticdsarma/</link>
-      <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://aymanamin.rbind.io/publication/2017-analyticdsarma/</guid>
       <description></description>
     </item>
     
