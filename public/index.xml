@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Bayesian Analysis of Double Seasonal Autoregressive Models</title>
+      <link>https://aymanamin.rbind.io/publication/2019-gibbsdsar/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanamin.rbind.io/publication/2019-gibbsdsar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A New Look at Bayesian Identification of Moving Average Models</title>
       <link>https://aymanamin.rbind.io/publication/2018-identificationma/</link>
       <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
@@ -233,15 +242,6 @@ p {
       <pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>https://aymanamin.rbind.io/publication/2016-inequality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gibbs Sampling for Double Seasonal Autoregressive Models</title>
-      <link>https://aymanamin.rbind.io/publication/2015-gibbsdsar/</link>
-      <pubDate>Wed, 23 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://aymanamin.rbind.io/publication/2015-gibbsdsar/</guid>
       <description></description>
     </item>
     
