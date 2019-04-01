@@ -19,7 +19,7 @@ url_video = ""
 
 [[url_custom]]
 name = "View Journal Article"
-url = "https://www.tandfonline.com/doi/abs/10.1080/03610918.2018.1458130"
+url = "https://link.springer.com/article/10.1007%2Fs13571-019-00192-z"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
