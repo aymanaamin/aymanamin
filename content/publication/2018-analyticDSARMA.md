@@ -2,7 +2,7 @@
 abstract = "Bayesian analysis of double SARMA is presented,  considering natural conjugate and Jeffreys’ priors and using analytical approximation."
 
 authors = ["Ayman A. Amin"]
-date = "2017-10-12"
+date = "2018-11-02"
 image_preview = ""
 math = true
 publication_types = ["2"]
