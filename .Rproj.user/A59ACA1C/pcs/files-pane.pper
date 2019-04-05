@@ -1,8 +1,8 @@
 {
-    "path" : "D:/AymanAminWebsite/aymanamin",
+    "path" : "D:/AymanAminWebsite/aymanamin/content/publication",
     "sortOrder" : [
         {
-            "ascending" : true,
+            "ascending" : false,
             "columnIndex" : 2
         }
     ]
