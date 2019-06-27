@@ -15,12 +15,13 @@ weight = 1
     "Time Series Analysis",
     "Forecasting Quality Attributes",
     "Bayesian Statistics",
+    "Non-parametric Statistics",
     "Forecasting Methods",
     "Statistical Modeling",
-    "Machine Learning", 
     "Sequential Analysis", 
+    "Statistical Process Control",
     "Statistical Composite Indicators",
-    "Statistical Process Control"
+    "Machine Learning"
   ]
 
 # List your qualifications (such as academic degrees).
