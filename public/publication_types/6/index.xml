@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>6 on Ayman A. Amin</title>
-    <link>https://aymanamin.rbind.io/publication_types/6/</link>
+    <link>/publication_types/6/</link>
     <description>Recent content in 6 on Ayman A. Amin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Ayman Ahmed Amin 2018</copyright>
     <lastBuildDate>Tue, 24 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://aymanamin.rbind.io/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Online Workload Forecasting</title>
-      <link>https://aymanamin.rbind.io/publication/2017-onlineworkloadforecasting/</link>
+      <link>/publication/2017-onlineworkloadforecasting/</link>
       <pubDate>Tue, 24 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://aymanamin.rbind.io/publication/2017-onlineworkloadforecasting/</guid>
+      <guid>/publication/2017-onlineworkloadforecasting/</guid>
       <description></description>
     </item>
     

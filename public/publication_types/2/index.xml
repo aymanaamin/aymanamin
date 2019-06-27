@@ -2,94 +2,103 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Ayman A. Amin</title>
-    <link>https://aymanamin.rbind.io/publication_types/2/</link>
+    <link>/publication_types/2/</link>
     <description>Recent content in 2 on Ayman A. Amin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Ayman Ahmed Amin 2018</copyright>
-    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://aymanamin.rbind.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Gibbs Sampling for Bayesian Prediction of SARMA Processes</title>
+      <link>/publication/2019-gibbssarma/</link>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-gibbssarma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bayesian Analysis of Double Seasonal Autoregressive Models</title>
-      <link>https://aymanamin.rbind.io/publication/2019-gibbsdsar/</link>
+      <link>/publication/2019-gibbsdsar/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://aymanamin.rbind.io/publication/2019-gibbsdsar/</guid>
+      <guid>/publication/2019-gibbsdsar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian inference for double SARMA models</title>
-      <link>https://aymanamin.rbind.io/publication/2018-analyticdsarma/</link>
+      <link>/publication/2018-analyticdsarma/</link>
       <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://aymanamin.rbind.io/publication/2018-analyticdsarma/</guid>
+      <guid>/publication/2018-analyticdsarma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian Identification of Double Seasonal Autoregressive Time Series Models</title>
-      <link>https://aymanamin.rbind.io/publication/2018-identificationdsar/</link>
+      <link>/publication/2018-identificationdsar/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://aymanamin.rbind.io/publication/2018-identificationdsar/</guid>
+      <guid>/publication/2018-identificationdsar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kullback-Leibler divergence to evaluate posterior sensitivity to different priors for autoregressive time series models</title>
-      <link>https://aymanamin.rbind.io/publication/2018-kl-arestimation/</link>
+      <link>/publication/2018-kl-arestimation/</link>
       <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://aymanamin.rbind.io/publication/2018-kl-arestimation/</guid>
+      <guid>/publication/2018-kl-arestimation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sensitivity to Prior Specification in Bayesian Identification of Autoregressive Time Series Models</title>
-      <link>https://aymanamin.rbind.io/publication/2017-kl-aridentification/</link>
+      <link>/publication/2017-kl-aridentification/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://aymanamin.rbind.io/publication/2017-kl-aridentification/</guid>
+      <guid>/publication/2017-kl-aridentification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian Inference for Double Seasonal Moving Average Models: A Gibbs Sampling Approach</title>
-      <link>https://aymanamin.rbind.io/publication/2017-gibbsdsma/</link>
+      <link>/publication/2017-gibbsdsma/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://aymanamin.rbind.io/publication/2017-gibbsdsma/</guid>
+      <guid>/publication/2017-gibbsdsma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gibbs Sampling for Double Seasonal Autoregressive Models</title>
-      <link>https://aymanamin.rbind.io/publication/2015-gibbsdsar/</link>
+      <link>/publication/2015-gibbsdsar/</link>
       <pubDate>Wed, 23 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://aymanamin.rbind.io/publication/2015-gibbsdsar/</guid>
+      <guid>/publication/2015-gibbsdsar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gibbs Sampling for SARMA Models</title>
-      <link>https://aymanamin.rbind.io/publication/2014-gibbssarma/</link>
+      <link>/publication/2014-gibbssarma/</link>
       <pubDate>Tue, 23 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://aymanamin.rbind.io/publication/2014-gibbssarma/</guid>
+      <guid>/publication/2014-gibbssarma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An approach to software reliability prediction based on time series modeling</title>
-      <link>https://aymanamin.rbind.io/publication/2013-softwarereliabilityprediction/</link>
+      <link>/publication/2013-softwarereliabilityprediction/</link>
       <pubDate>Fri, 12 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://aymanamin.rbind.io/publication/2013-softwarereliabilityprediction/</guid>
+      <guid>/publication/2013-softwarereliabilityprediction/</guid>
       <description></description>
     </item>
     
