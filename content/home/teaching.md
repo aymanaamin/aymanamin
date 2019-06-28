@@ -27,3 +27,4 @@ I teach the following courses for Postgraduate students:
 - Theory of Statistics 
 - Mathematics for Statisticians	
 - Demography 
+- Time Series Analysis
