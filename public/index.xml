@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Experience</title>
+      <link>/bio/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/bio/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Biography</title>
       <link>/bio/skills/</link>
       <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
@@ -23,7 +32,7 @@
 &lt;li&gt;&lt;a href=&#34;#general-background&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;1&lt;/span&gt; General Background&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#my-education-history&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;2&lt;/span&gt; My Education History&lt;/a&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#phd-in-statistics-applied-in-information-technology-april-2010---january-2014-faculty-of-science-engineering-and-technology-fset-swinburne-university-of-technology-australia.&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;2.1&lt;/span&gt; &lt;strong&gt;PhD in Statistics&lt;/strong&gt; [Applied in Information Technology, April 2010 - January 2014], Faculty of Science, Engineering, and Technology (FSET), Swinburne University of Technology, Australia.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#msc-in-statistics-with-excellent-degree-october-2006---october-2009-faculty-of-economic-and-political-science-feps-cairo-university-egypt.&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;2.2&lt;/span&gt; &lt;strong&gt;MSc in Statistics&lt;/strong&gt; [with excellent degree, October 2006 - October 2009], Faculty of Economic and Political Science (FEPS), Cairo University, Egypt.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#msc-in-statistics-with-excellent-degree-october-2006---october-2009-faculty-of-economics-and-political-science-feps-cairo-university-egypt.&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;2.2&lt;/span&gt; &lt;strong&gt;MSc in Statistics&lt;/strong&gt; [with excellent degree, October 2006 - October 2009], Faculty of Economics and Political Science (FEPS), Cairo University, Egypt.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#pre-msc-in-statistics-msc-preparatory-year-september-2006---july-2007-feps-cairo-university-egypt.&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;2.3&lt;/span&gt; &lt;strong&gt;Pre-MSc in Statistics&lt;/strong&gt; [MSc Preparatory Year, September 2006 - July 2007], FEPS, Cairo University, Egypt.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#bsc-in-statistics-and-social-science-computing-with-excellent-degree-september-2002---july-2006-feps-cairo-university-egypt.&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;2.4&lt;/span&gt; &lt;strong&gt;BSc in Statistics and Social Science Computing&lt;/strong&gt; [with excellent degree, September 2002 - July 2006], FEPS, Cairo University, Egypt.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
@@ -49,7 +58,7 @@
 
 &lt;div id=&#34;general-background&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;1&lt;/span&gt; General Background&lt;/h1&gt;
-&lt;p&gt;I have been working as an &lt;em&gt;Assistant Professor of Statistics&lt;/em&gt; (since September 2015) at &lt;a href = &#34;http://www.menofia.edu.eg/Home/en&#34;&gt;Faculty of Commerce, Menoufia University, Egypt&lt;/a&gt;. Before that, I worked as a Tutor for Statistics and Mathematics from February 2012 to June 2014 at &lt;a href = &#34;http://www.swin.edu.au/&#34;&gt;Faculty of Science, Engineering and Technology, Swinburne University of Technology, Australia&lt;/a&gt;. Moreover, I worked as a Teaching Assistant for Statistics and Mathematics from May 2007 to April 2010 at &lt;a href = &#34;http://www.menofia.edu.eg/Home/en&#34;&gt;Faculty of Commerce, Menoufia University, Egypt&lt;/a&gt;. I was awarded my PhD degree from &lt;a href = &#34;http://www.swin.edu.au/&#34;&gt;Faculty of Science, Engineering and Technology, Swinburne University of Technology, Australia&lt;/a&gt; (in January 2014). I received my MSC in Statistics (with excellent degree in October 2009) and BSC in Statistics and Social Science Computing (with excellent degree in June 2006) from &lt;a href = &#34;http://www.feps.eun.eg/&#34;&gt;Faculty of Economic and Political Science (FEPS), Cairo University&lt;/a&gt;, Egypt.&lt;/p&gt;
+&lt;p&gt;I have been working as an &lt;em&gt;Assistant Professor of Statistics&lt;/em&gt; (since September 2015) at &lt;a href = &#34;http://www.menofia.edu.eg/Home/en&#34;&gt;Faculty of Commerce, Menoufia University, Egypt&lt;/a&gt;. Before that, I worked as a Tutor for Statistics and Mathematics from February 2012 to June 2014 at &lt;a href = &#34;http://www.swin.edu.au/&#34;&gt;Faculty of Science, Engineering and Technology, Swinburne University of Technology, Australia&lt;/a&gt;. Moreover, I worked as a Teaching Assistant for Statistics and Mathematics from May 2007 to April 2010 at &lt;a href = &#34;http://www.menofia.edu.eg/Home/en&#34;&gt;Faculty of Commerce, Menoufia University, Egypt&lt;/a&gt;. I was awarded my PhD degree from &lt;a href = &#34;http://www.swin.edu.au/&#34;&gt;Faculty of Science, Engineering and Technology, Swinburne University of Technology, Australia&lt;/a&gt; (in January 2014). I received my MSC in Statistics (with excellent degree in October 2009) and BSC in Statistics and Social Science Computing (with excellent degree in June 2006) from &lt;a href = &#34;http://www.feps.eun.eg/&#34;&gt;Faculty of Economics and Political Science (FEPS), Cairo University&lt;/a&gt;, Egypt.&lt;/p&gt;
 &lt;p&gt;My research work is mainly in time series analysis and forecasting methods. In my &lt;em&gt;Master study&lt;/em&gt;, I proposed a Bayesian inference for multiplicative seasonal ARMA models by implementing MCMC Gibbs sampling algorithm. In addition in my &lt;em&gt;PhD study&lt;/em&gt;, I continued my work in time series analysis but mostly in the real application of time series forecasting. In particular, I was working on proposing an automated statistical approach to forecasting Quality attributes of software systems. These Quality attributes include performance, reliability, and availability. This forecasting approach is mainly based on linear and non-linear time series models and wavelet analysis. Currently, I am mainly working on modeling &lt;em&gt;multiple seasonalities&lt;/em&gt; aiming to propose a new efficient forecasting method that can be effectively applied in different research fields such as finance, economics and software engineering.&lt;/p&gt;
 &lt;p&gt;I deliver statistical consultations for many clients such as regional projects, companies, and postgraduate students in different fields including information technology, social and educational sciences, linguistics, and medicine that require the statistical analysis and data mining as a main component in their work.&lt;/p&gt;
 &lt;/div&gt;
@@ -62,8 +71,8 @@
 &lt;p&gt;&lt;strong&gt;Area of Study:&lt;/strong&gt; Quantitative Analysis for Quality Attributes of Software Systems&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Thesis Abstract:&lt;/strong&gt; This study proposes a collection of automated forecasting approaches for quality of service (QoS) attributes of Web services. Each one of these approaches is able to fit and forecast a specific type of QoS stochastic characteristics, however, taken together they will be able to fit different dynamic behaviors of QoS attributes and forecast their future values. In particular, the thesis proposes an automated forecasting approach for nonlinearly dependent QoS attributes, two automated forecasting approaches for linearly dependent QoS attributes with volatility clustering, and two automated forecasting approaches for nonlinearly dependent QoS attributes with volatility clustering. The accuracy and performance of the proposed forecasting approaches are evaluated and compared to those of the baseline ARIMA time series models using real-world QoS datasets of Web services characterized by nonlinearity and volatility clustering. The evaluation results show that each one of the proposed forecasting approaches outperforms the baseline ARIMA models.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;msc-in-statistics-with-excellent-degree-october-2006---october-2009-faculty-of-economic-and-political-science-feps-cairo-university-egypt.&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;2.2&lt;/span&gt; &lt;strong&gt;MSc in Statistics&lt;/strong&gt; [with excellent degree, October 2006 - October 2009], Faculty of Economic and Political Science (FEPS), Cairo University, Egypt.&lt;/h2&gt;
+&lt;div id=&#34;msc-in-statistics-with-excellent-degree-october-2006---october-2009-faculty-of-economics-and-political-science-feps-cairo-university-egypt.&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;2.2&lt;/span&gt; &lt;strong&gt;MSc in Statistics&lt;/strong&gt; [with excellent degree, October 2006 - October 2009], Faculty of Economics and Political Science (FEPS), Cairo University, Egypt.&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Thesis Topic:&lt;/strong&gt; Bayesian Inference for Seasonal ARMA Models: A Gibbs Sampling Approach&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Supervisor:&lt;/strong&gt; Prof. Mohamed Ismail and Prof. Emad Soliman&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Area of Study:&lt;/strong&gt; Bayesian Time Series Analysis&lt;/p&gt;
@@ -392,15 +401,6 @@ p {
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/publication/2017-kl-aridentification/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian Inference for Double Seasonal Moving Average Models: A Gibbs Sampling Approach</title>
-      <link>/publication/2017-gibbsdsma/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/2017-gibbsdsma/</guid>
       <description></description>
     </item>
     
