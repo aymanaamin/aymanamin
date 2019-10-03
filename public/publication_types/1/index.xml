@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Ayman Ahmed Amin 2018</copyright>
-    <lastBuildDate>Tue, 26 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Open-Circuit Faults Detection Using Control Charts Technique</title>
+      <link>/publication/2019-opencircuitfaults/</link>
+      <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-opencircuitfaults/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Detecting Nonlinear Structure in Egyptian Stock Market Indices</title>
