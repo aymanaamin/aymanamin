@@ -11,15 +11,6 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Open-Circuit Faults Detection Using Control Charts Technique</title>
-      <link>/publication/2019-opencircuitfaults/</link>
-      <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/2019-opencircuitfaults/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title> الطلاق والأمية في مصر: من واقع بيانات تعداد السكان - 2017</title>
       <link>/post/divorce-illiteracy-inegypt/</link>
       <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
@@ -847,6 +838,15 @@ p {
 كل بحثي في موضوع الرقم القياسي لأسعار المساكن ومنهجية تطبيقه في مصر وضعته في تقرير متكامل، لعله يجد من يستفيد به ويبني عليه. بسبب مرور قرابة عشر سنوات علي فكرته فهو بحاجة للتحديث. يمكن تحميل التقرير من &lt;a href = &#34;https://www.researchgate.net/publication/322452580_House_Price_Index_International_Experiences_and_A_Methodology_for_Application_in_Egypt_In_Arabic&#34;&gt; هنا&lt;/a&gt; .
 &lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Bayesian Identification of Double Seasonal Autoregressive Time Series Models</title>
+      <link>/publication/2018-identificationdsar/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-identificationdsar/</guid>
+      <description></description>
     </item>
     
   </channel>
