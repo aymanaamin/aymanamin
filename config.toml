@@ -346,7 +346,13 @@ enableGitInfo = false
   url = "#contact"
   weight = 5
 
-
+#[[menu.main]]
+#  name = "Books"
+#  url = "/books/"
+#  weight = 6
+  
+  
+  
 [[menu.main]]
   name = "بالعربية"
 #  url = "#contact"
