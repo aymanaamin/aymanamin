@@ -1,5 +1,5 @@
 +++
-abstract = "In this paper we adapt nonlinear dynamic tools from the chaos theory to study the characteristics of the major Egyptian stock market indices, e.g. EGX 30. In particular, we use Brock-Dechert-Scheinkman (BDS) test to detect the nonlinearity and the rescaled range (R/S) analysis investigate the fractality and long term memory for the EGX30 series."  
+abstract = "In this paper we adapt nonlinear dynamic tools from the chaos theory to study the characteristics of the major Egyptian stock market indices, e.g. EGX 30. In particular, we use Brock-Dechert-Scheinkman (BDS) test to detect the nonlinearity and the rescaled range (R/S) analysis to investigate the fractality and long term memory for the EGX 30 series."  
 
 
 authors = ["Eman Talaat", "El-Houssainy A.Rady", "Ayman A. Amin"]
