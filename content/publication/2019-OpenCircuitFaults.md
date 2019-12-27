@@ -2,14 +2,14 @@
 abstract = "In this paper, we introduce a real-time fault detection technique based on statistical EWMA control charts for detecting power switch open circuit faults in inverter feeding induction motor drives. The proposed algorithm is able to detect simultaneously double and triple switches open circuit faults, besides single open circuit faults."
 
 authors = ["Arafa Mansour", "Ayman A. Amin"]
-date = "2019-12-13"
+date = "2019-12-17"
 image_preview = ""
 math = true
 publication_types = ["1"]
 publication = "Accepted for presentation at *the 21st International Middle East Power Systems Conference (MEPCON)*"
 publication_short = ""
 selected = true
-title = "Open-Circuit Faults Detection Using Control Charts Technique"
+title = "Proposed Open-Circuit Faults Detection Using Control Charts Technique"
 url_code = ""
 url_dataset = ""
 url_pdf = ""
