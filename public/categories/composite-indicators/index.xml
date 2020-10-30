@@ -1,34 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Composite Indicators on Ayman A. Amin</title>
-    <link>/categories/composite-indicators/</link>
-    <description>Recent content in Composite Indicators on Ayman A. Amin</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Ayman Ahmed Amin 2018</copyright>
-    <lastBuildDate>Sun, 13 May 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/categories/composite-indicators/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title> الرقم القياسي لأسعار المساكن: تجارب دولية ومنهجية للتطبيق في مصر</title>
-      <link>/post/house-price-index/</link>
-      <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/house-price-index/</guid>
-      <description>h1, h2, h3, h4, h5, h6 {direction: rtl;}p {direction: rtl;}منذ عشر سنوات مع بداية 2008، كنت أفكر في بناء مؤشر لقياس أسعار المساكن والعقارات في مصر، ووقتها فعلاً قرأت في الموضوع وحاولت فيه لأكثر من سنة - مع مساعدة بعض الباحثين الأكثر مني خبرة - لأقتراح “رقم قياسي لأسعار المساكن” وهو عبارة عن “مؤشر مركب يقيس متوسط تغيرات أسعار مبيعات المساكن والعقارات المختلفة التي تم تداولها في السوق خلال فترة معينة، وهذه الفترة قد تكون شهر أو ربع سنة أو تزيد لسنة.</description>
-    </item>
-    
-    <item>
-      <title> المشكلة السكانية في مصر</title>
-      <link>/post/population-problem-inegypt/</link>
-      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/population-problem-inegypt/</guid>
-      <description>h1.title {direction: rtl;}h1, h2, h3, h4, h5, h6 {direction: rtl;}p {direction: rtl;}بمناسبة مبادرة “شباب جامعات مصر” التي تدشنها الآن وزارة الصحة والسكان للحد من الزيادة السكانية، أذكر عندما كنت حديث التخرج عملت كباحث في وحدة متابعة وتقييم الخطة الإستراتيجية للسكان في مصر، ووقتها كنت مجرد باحث مساعد لمجموعة من خبراء السكان (من بينهم الدكتورة فاطمة الزهراء جيل)، وقمنا بدراسة مهمة عن تقدير المستهدفات الكمية لأهم مؤشرات المتابعة والتقييم للبرنامج السكاني في مصر، وبناءاً علي نتائج هذه الدراسة قدمت ورقة بحثية في “المؤتمر الإقليمي الأول: مواجهة المشكلة السكانية في صعيد مصر”، والذي عُقد في جامعة أسيوط 1-2 أبريل 2009.</description>
-    </item>
-    
-  </channel>
-</rss>
